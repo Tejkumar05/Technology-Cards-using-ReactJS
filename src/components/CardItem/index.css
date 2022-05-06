@@ -1,0 +1,49 @@
+.card-item {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-bottom: 38px;
+  max-width: 323px;
+  list-style-type: none;
+}
+
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+.card-title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  color: #171f46;
+}
+.card-description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #64748b;
+}
+.image-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.card-image {
+  height: 80px;
+  width: 80px;
+}
